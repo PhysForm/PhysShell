@@ -1,2 +1,2 @@
 # PhysShell
-Series of Physics formulas, but for Linux shells!
+Series of Physics formulas, but for shells!
